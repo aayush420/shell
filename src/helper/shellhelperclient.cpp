@@ -25,8 +25,8 @@
 #include <QtGui/QWindow>
 
 #include <LiriWaylandClient/Surface>
-//#include <LiriWaylandClient/private/registry_p.h>
-#include <LiriWaylandClient/private/surface_p.h>
+#include </usr/include/LiriWaylandClient/0.9.0.1/LiriWaylandClient/private/registry_p.h>
+#include </usr/include/LiriWaylandClient/0.9.0.1/LiriWaylandClient/private/surface_p.h>
 
 #include "shellhelperclient.h"
 
